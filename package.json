@@ -1,6 +1,6 @@
 {
   "name": "@hinryd/sleep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple asynchronous sleep function",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hinryd/sleep.git"
+    "url": "git+https://github.com/hinryd/sleep.git"
   }
 }
